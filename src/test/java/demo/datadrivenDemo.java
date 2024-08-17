@@ -35,7 +35,7 @@ public class DatadriverDemo {
 			{"Books","selenium"},
 			{"Cameras & Photo","iphone"},
 			{"Cell Phones & Accessories","samsung"},
-			{"Clothing, Shoes & Accessories","tshirts"},
+			{"Clothing, Shoes & Accessories","shoes"},
 				};
 	}
 
