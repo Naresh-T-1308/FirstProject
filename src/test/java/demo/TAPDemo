@@ -9,7 +9,7 @@ import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-public class DatadriverDemo3 {
+public class TapDemo {
 	
 	public static WebDriver driver;
 
